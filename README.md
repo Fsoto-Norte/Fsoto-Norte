@@ -1,6 +1,4 @@
-### Hola este es my perfil de github 👋
-probando cambio de readme.md para el curso udemy 2024
-
+### Hola, este es my perfil de github 👋
 
 ![Fsoto-Norte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fsoto-Norte&show_icons=true&theme=transparent)
 
